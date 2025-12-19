@@ -1,5 +1,5 @@
 # pdf_literature_analyser
-Ath the moment this tool automates the detection of hardware (Crazyflie versions, decks, sensors) and software (ROS, Crazyswarm, Simulators) within PDF academic papers using regex-based pattern matching.
+At the moment this tool automates the detection of hardware (Crazyflie versions, decks, sensors) and software (ROS, Crazyswarm, Simulators) within PDF academic papers using regex-based pattern matching.
 
 This tool can be adapted easily to other topics of interest.
 
