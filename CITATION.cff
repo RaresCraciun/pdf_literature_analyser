@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Crăciun"
+  given-names: "Rareș"
+title: "PDF literature analyser"
+version: 1.0.0
+date-released: 2025-12-19
+url: "https://github.com/RaresCraciun/pdf_literature_analyser"
+abstract: >-
+  A Python-based tool for systematic literature reviews that uses 
+  regex pattern matching to identify keywords in academic PDF papers.
+license: MIT
